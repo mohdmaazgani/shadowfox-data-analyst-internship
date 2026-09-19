@@ -1,0 +1,152 @@
+Order ID,Order Date,Region,Category,Product,Customer ID,Quantity,Unit Price,Discount,Sales,Profit,Salesperson
+ORD-1001,2025-02-02,West,Office Supplies,Stapler,CUST-027,4.0,280,0.05,1064.0,426.84,Sara
+ORD-1002,2025-09-26,North,Home & Kitchen,Table Lamp,CUST-010,4.0,1250,0.05,4750.0,1642.74,Sara
+ORD-1003,2025-10-13,South,Accessories,Cable Pack,CUST-045,4.0,420,0.0,1680.0,519.26,Aarav
+ORD-1004,2025-11-10,West,Home & Kitchen,Table Lamp,CUST-023,2.0,1250,0.0,2500.0,564.65,Sara
+ORD-1005,2025-09-05,South,Electronics,Bluetooth Speaker,CUST-038,3.0,2200,0.0,6600.0,2568.34,Rohan
+ORD-1006,2025-12-03,South,Accessories,Cable Pack,CUST-040,3.0,420,0.0,1260.0,410.87,Diya
+ORD-1007,2025-06-18,North,Office Supplies,Notebook,CUST-009,3.0,180,0.05,513.0,170.61,Rohan
+ORD-1008,2025-08-18, north ,Office Supplies,Pen Set,CUST-045,6.0,150,0.1,810.0,277.43,Diya
+ORD-1009,2025-03-29,North,Electronics,USB-C Hub,CUST-040,6.0,1450,0.0,8700.0,2284.75,Meera
+ORD-1010,2025-06-22,South,Home & Kitchen,Storage Box,CUST-013,4.0,720,0.05,2736.0,1072.62,Aarav
+ORD-1011,2025-06-10,East,Office Supplies,Pen Set,CUST-029,6.0,150,0.1,810.0,237.38,Meera
+ORD-1012,2025-02-03,North,Office Supplies,Pen Set,CUST-014,5.0,150,0.05,712.5,268.67,Kabir
+ORD-1013,2025-12-29,North,Electronics,Bluetooth Speaker,CUST-022,6.0,2200,0.0,13200.0,4768.91,Meera
+ORD-1014,2025-02-16,East,Home & Kitchen,Storage Box,CUST-017,7.0,720,0.05,4788.0,1231.45,Diya
+ORD-1015,2025-05-03,East,Electronics,Wireless Mouse,CUST-046,6.0,650,0.05,3705.0,1436.6,Meera
+ORD-1016,2025-12-09,South,Home & Kitchen,Water Bottle,CUST-035,4.0,450,0.0,1800.0,647.46,Meera
+ORD-1017,2025-08-10,North,Electronics,Keyboard,CUST-025,3.0,950,0.15,2422.5,577.24,Rohan
+ORD-1018,2025-06-16,West,Accessories,Phone Stand,CUST-037,2.0,550,0.1,990.0,326.83,Diya
+ORD-1019,2025-01-29,South,Accessories,Backpack,CUST-041,1.0,1100,0.0,1100.0,394.69,Meera
+ORD-1020,2025-07-19,West,Accessories,Backpack,CUST-016,1.0,1100,0.1,990.0,330.25,Meera
+ORD-1021,2025-02-21,North,Home & Kitchen,Storage Box,CUST-009,5.0,720,0.05,3420.0,1407.94,Kabir
+ORD-1022,2025-03-10,North,Electronics,Keyboard,CUST-015,5.0,950,0.05,4512.5,1741.29,Sara
+ORD-1023,2025-12-28,East,office supplies ,Pen Set,CUST-021,5.0,150,0.0,750.0,171.22,Kabir
+ORD-1024,2025-06-20,South,Electronics,Bluetooth Speaker,CUST-009,2.0,2200,0.05,4180.0,971.58,Meera
+ORD-1025,2025-07-17,South,Electronics,Keyboard,CUST-015,7.0,950,0.05,6317.5,2098.79,Aarav
+ORD-1026,2025-05-13,North,Accessories,Laptop Sleeve,CUST-034,4.0,900,0.05,3420.0,1362.13,Rohan
+ORD-1027,2025-02-13,East,Home & Kitchen,Coffee Mug,CUST-031,6.0,380,0.1,2052.0,817.62,Sara
+ORD-1028,2025-12-22,East,Electronics,Wireless Mouse,CUST-024,1.0,650,0.0,650.0,165.13,Rohan
+ORD-1029,2025-12-18,South,Accessories,Phone Stand,CUST-050,5.0,550,0.05,2612.5,963.51,Sara
+ORD-1030,2025-03-07,South,Electronics,Wireless Mouse,CUST-005,3.0,650,0.15,1657.5,400.56,Rohan
+ORD-1031,2025-11-05,East,Accessories,Laptop Sleeve,CUST-017,1.0,900,0.0,900.0,239.04,Meera
+ORD-1032,2025-05-30,East,Electronics,Keyboard,CUST-048,6.0,950,0.0,5700.0,1326.03,Diya
+ORD-1033,2025-01-12,North,Accessories,Backpack,CUST-036,7.0,1100,0.0,7700.0,2310.95,Sara
+ORD-1034,2025-01-17,West,Office Supplies,Notebook,CUST-022,7.0,180,0.15,1071.0,342.56,Aarav
+ORD-1035,2025-12-08,North,Electronics,Wireless Mouse,CUST-015,2.0,650,0.05,1235.0,488.61,Meera
+ORD-1036,2025-12-05,North,Home & Kitchen,Storage Box,CUST-005,3.0,720,0.1,1944.0,538.33,Rohan
+ORD-1037,2025-10-29,West,Electronics,Wireless Mouse,CUST-007,4.0,650,0.0,2600.0,935.51,Kabir
+ORD-1038,2025-07-05,South,Accessories,Cable Pack,CUST-030,4.0,420,0.15,1428.0,592.66,Meera
+ORD-1039,2025-02-24,North,Electronics,USB-C Hub,CUST-009,6.0,1450,0.05,8265.0,1874.12,Meera
+ORD-1040,2025-03-08,South,Accessories,Laptop Sleeve,CUST-034,4.0,900,0.1,3240.0,1349.24,Aarav
+ORD-1041,2025-04-16,North,Home & Kitchen,Table Lamp,CUST-047,4.0,1250,0.05,4750.0,1419.28,Sara
+ORD-1042,2025-10-02,South,Office Supplies, Wireless Mouse ,CUST-049,1.0,150,0.05,142.5,41.27,Sara
+ORD-1043,2025-04-11,North,Electronics,Keyboard,CUST-048,2.0,950,0.1,1710.0,438.93,Aarav
+ORD-1044,2025-11-18,North,Home & Kitchen,Water Bottle,CUST-047,3.0,450,0.1,1215.0,434.89,Aarav
+ORD-1045,2025-12-01,South,Electronics,Bluetooth Speaker,CUST-028,2.0,2200,0.0,4400.0,1746.37,Aarav
+ORD-1046,2025-09-16,North,Electronics,Wireless Mouse,CUST-041,6.0,650,0.05,3705.0,1051.69,Kabir
+ORD-1047,2025-10-30,West,Office Supplies,Desk Organizer,CUST-025,6.0,320,0.1,1728.0,710.74,Diya
+ORD-1048,2025-11-21,East,Electronics,Wireless Mouse,CUST-001,5.0,650,0.05,3087.5,1266.34,Kabir
+ORD-1049,2025-12-04,West,Electronics,USB-C Hub,CUST-035,1.0,1450,0.0,1450.0,340.8,Aarav
+ORD-1050,2025-11-02,West,Accessories,Laptop Sleeve,CUST-032,2.0,900,0.1,1620.0,427.85,Meera
+ORD-1051,2025-08-13,East,Electronics,Bluetooth Speaker,CUST-042,6.0,2200,0.05,12540.0,3116.01,Kabir
+ORD-1052,2025-10-14,South,Home & Kitchen,Coffee Mug,CUST-009,2.0,380,0.0,760.0,246.56,Kabir
+ORD-1053,2025-08-09,South,Office Supplies,Notebook,CUST-010,4.0,180,0.0,720.0,247.76,Rohan
+ORD-1054,2025-03-27,West,Accessories,Phone Stand,CUST-024,5.0,550,0.05,2612.5,925.68,Meera
+ORD-1055,2025-12-17,West,Home & Kitchen,Table Lamp,CUST-004,2.0,1250,0.05,2375.0,696.86,Diya
+ORD-1056,2025-03-06,East,Electronics,USB-C Hub,,5.0,1450,0.1,6525.0,2568.11,Meera
+ORD-1057,2025-08-21,North,Home & Kitchen,Water Bottle,CUST-048,5.0,450,0.15,1912.5,750.69,Sara
+ORD-1058,2025-03-03,West,Home & Kitchen,Table Lamp,CUST-005,4.0,1250,0.1,4500.0,1038.58,Diya
+ORD-1059,2025-09-21,East,Electronics,USB-C Hub,CUST-001,4.0,1450,0.0,5800.0,1780.66,Meera
+ORD-1060,2025-06-23,West,Office Supplies,Desk Organizer,CUST-012,6.0,320,0.1,1728.0,555.67,Meera
+ORD-1061,2025-02-20,North,Electronics,Bluetooth Speaker,CUST-037,6.0,2200,0.0,13200.0,3807.24,Kabir
+ORD-1062,2025-12-03,South,Home & Kitchen,Table Lamp,CUST-032,6.0,1250,0.1,6750.0,1805.58,Diya
+ORD-1063,2025-10-18,North,Office Supplies,Desk Organizer,CUST-028,3.0,320,0.0,960.0,223.46,Kabir
+ORD-1064,2025-09-27,East,Home & Kitchen,Coffee Mug,CUST-031,2.0,380,0.15,646.0,170.51,Kabir
+ORD-1065,2025-02-21,East,Accessories,Phone Stand,CUST-014,1.0,550,0.15,467.5,185.27,Sara
+ORD-1066,2025-11-17,East,Electronics,USB-C Hub,CUST-005,4.0,1450,0.05,5510.0,2300.64,Kabir
+ORD-1067,2025-09-21,South,Electronics,Bluetooth Speaker,CUST-026,7.0,2200,0.05,14630.0,5261.16,Sara
+ORD-1068,2025-09-27,West,Electronics,Bluetooth Speaker,CUST-039,3.0,2200,0.1,5940.0,2157.52,Sara
+ORD-1069,2025-01-16,East,Accessories,Backpack,CUST-035,1.0,1100,0.05,1045.0,420.0,Sara
+ORD-1070,2025-11-12,North,Electronics,Wireless Mouse,CUST-001,4.0,650,0.1,2340.0,890.04,Sara
+ORD-1071,2025-04-16,North,Electronics,USB-C Hub,CUST-050,1.0,1450,0.0,1450.0,433.28,Rohan
+ORD-1072,2025-12-18,North,Accessories,Backpack,CUST-007,2.0,1100,0.1,1980.0,464.19,Rohan
+ORD-1073,2025-11-05,North,Accessories,Cable Pack,CUST-035,4.0,420,0.0,1680.0,663.63,Meera
+ORD-1074,2025-07-17,West,Home & Kitchen,Storage Box,CUST-003,1.0,720,0.0,720.0,196.61,Diya
+ORD-1075,2025-01-06,West,Home & Kitchen,Coffee Mug,CUST-004,4.0,380,0.05,1444.0,590.74,Meera
+ORD-1076,2025-01-02,East,Accessories,Backpack,CUST-039,4.0,1100,0.0,4400.0,1767.29,Diya
+ORD-1077,2025-05-18,West,Office Supplies,Stapler,CUST-023,4.0,280,0.05,1064.0,325.07,Aarav
+ORD-1078,2025-04-01,East,Office Supplies,Stapler,CUST-023,3.0,280,0.05,798.0,231.54,Sara
+ORD-1079,2025-02-27,South,Office Supplies,Notebook,CUST-049,5.0,180,,855.0,338.71,Aarav
+ORD-1080,2025-12-12,South,Office Supplies,Desk Organizer,CUST-049,5.0,320,0.05,1520.0,445.47,Kabir
+ORD-1081,2025-02-26,East,Electronics,Keyboard,CUST-015,7.0,950,0.0,6650.0,2745.04,Kabir
+ORD-1082,2025-06-24,East,Electronics,Keyboard,CUST-028,1.0,950,0.05,902.5,252.34,Meera
+ORD-1083,2025-08-03,West,Office Supplies,Pen Set,CUST-027,2.0,150,0.05,285.0,95.11,Meera
+ORD-1084,2025-07-12,East,Office Supplies,Desk Organizer,CUST-043,6.0,320,0.1,1728.0,407.44,Meera
+ORD-1085,2025-09-25,South,Home & Kitchen,Storage Box,CUST-003,2.0,720,0.1,1296.0,416.24,Aarav
+ORD-1086,2025-01-21,North,Accessories,Backpack,CUST-025,6.0,1100,0.0,6600.0,2330.95,Diya
+ORD-1087,2025-09-24,North,Home & Kitchen,Coffee Mug,CUST-021,7.0,380,0.1,2394.0,595.36,Kabir
+ORD-1088,2025-09-16,North,Home & Kitchen,Water Bottle,CUST-004,5.0,450,0.0,2250.0,513.71,Sara
+ORD-1089,2025-06-14,East,Office Supplies,Stapler,CUST-047,6.0,280,0.1,1512.0,517.76,Meera
+ORD-1090,2025-05-02,East,Electronics,Wireless Mouse,CUST-021,6.0,650,0.0,3900.0,1508.59,Sara
+ORD-1091,2025-12-02,West,Home & Kitchen,Table Lamp,CUST-026,2.0,1250,0.15,2125.0,832.32,Kabir
+ORD-1092,2025-11-04,West,Electronics,Keyboard,CUST-046,6.0,950,0.05,5415.0,1766.02,Aarav
+ORD-1093,2025-04-22,North,Accessories,Backpack,CUST-010,7.0,1100,0.0,7700.0,2784.23,Kabir
+ORD-1094,2025-12-30,North,Office Supplies,Pen Set,CUST-043,1.0,150,0.0,150.0,37.69,Meera
+ORD-1095,2025-07-23,West,Home & Kitchen,Storage Box,CUST-038,6.0,720,0.0,4320.0,1497.65,Meera
+ORD-1096,2025-11-18,South,Accessories,Phone Stand,CUST-019,,550,0.1,1485.0,370.65,Meera
+ORD-1097,2025-06-07,West,Home & Kitchen,Table Lamp,CUST-043,1.0,1250,0.0,1250.0,400.3,Meera
+ORD-1098,2025-07-08,West,Office Supplies,Notebook,CUST-001,7.0,180,0.05,1197.0,460.24,Kabir
+ORD-1099,2025-04-26,West,Electronics,Wireless Mouse,CUST-008,5.0,650,0.05,3087.5,1106.85,Meera
+ORD-1100,2025-07-26,East,Electronics,Wireless Mouse,CUST-041,2.0,650,0.05,1235.0,276.19,Meera
+ORD-1101,2025-11-17,West,Home & Kitchen,Coffee Mug,CUST-032,5.0,380,0.1,1710.0,388.78,Rohan
+ORD-1102,2025-06-18,East,Electronics,Bluetooth Speaker,CUST-049,4.0,2200,0.05,8360.0,2586.41,Meera
+ORD-1103,2025-06-02,South,Accessories,Laptop Sleeve,CUST-032,2.0,900,0.1,1620.0,437.41,Kabir
+ORD-1104,2025-01-02,West,Electronics,Wireless Mouse,CUST-043,4.0,650,0.05,2470.0,550.54,Kabir
+ORD-1105,2025-04-29,West,Office Supplies,Stapler,CUST-028,1.0,280,0.0,280.0,86.49,Rohan
+ORD-1106,2025-04-08,North,Accessories,Laptop Sleeve,CUST-019,2.0,900,0.0,1800.0,738.47,Aarav
+ORD-1107,2025-12-07,West,Home & Kitchen,Storage Box,CUST-020,5.0,720,0.1,3240.0,881.65,Rohan
+ORD-1108,2025-05-20,East,Electronics,Wireless Mouse,CUST-048,1.0,650,0.1,585.0,245.17,Meera
+ORD-1109,2025-04-06,South,Electronics,USB-C Hub,CUST-013,6.0,1450,0.1,7830.0,2236.85,Diya
+ORD-1110,2025-06-01,West,Office Supplies,Stapler,CUST-023,6.0,280,0.0,1680.0,507.25,Kabir
+ORD-1111,2025-02-11,North,Accessories,Phone Stand,CUST-023,7.0,550,0.0,3850.0,1353.72,Rohan
+ORD-1112,2025-06-05,South,Accessories,Laptop Sleeve,CUST-006,5.0,900,0.05,4275.0,1678.52,Meera
+ORD-1113,2025-03-10,East,Home & Kitchen,Table Lamp,CUST-011,6.0,1250,0.0,7500.0,1777.05,Kabir
+ORD-1114,2025-05-06,North,Office Supplies,Notebook,CUST-016,1.0,180,0.0,180.0,74.96,Kabir
+ORD-1115,2025-12-18,South,Office Supplies,Pen Set,CUST-026,4.0,150,0.15,510.0,137.5,Meera
+ORD-1116,2025-12-24,North,Accessories,Phone Stand,CUST-016,3.0,550,0.0,1650.0,393.01,Meera
+ORD-1117,2025-12-26,East,Home & Kitchen,Storage Box,CUST-015,5.0,720,0.0,3600.0,1338.21,Diya
+ORD-1118,2025-03-06,South,Accessories,Backpack,CUST-030,1.0,1100,0.05,1045.0,273.38,Rohan
+ORD-1119,2025-08-20,West,Office Supplies,Desk Organizer,CUST-034,7.0,320,0.05,2128.0,547.05,Sara
+ORD-1120,2025-04-08,East,Electronics,Bluetooth Speaker,CUST-016,2.0,2200,0.0,4400.0,1273.43,Sara
+ORD-1121,2025-10-12,West ,Office Supplies,Pen Set,CUST-015,1.0,150,0.15,127.5,50.92,Aarav
+ORD-1122,2025-01-19,South,Electronics,Wireless Mouse,CUST-003,7.0,650,0.05,4322.5,1545.23,Aarav
+ORD-1123,2025-11-07,North,Office Supplies,Notebook,CUST-049,6.0,180,0.05,1026.0,388.44,Diya
+ORD-1124,2025-06-29,North,Office Supplies,Desk Organizer,CUST-009,2.0,320,0.0,640.0,158.37,Aarav
+ORD-1125,2025-02-10,South,Office Supplies,Pen Set,CUST-024,1.0,150,0.05,142.5,37.6,Sara
+ORD-1126,2025-07-13,North,Office Supplies,Desk Organizer,CUST-017,5.0,320,0.05,1520.0,430.69,Diya
+ORD-1127,2025-09-29,North,Accessories,Phone Stand,CUST-010,4.0,550,0.05,2090.0,580.37,Aarav
+ORD-1128,2025-08-09,West,Electronics,Wireless Mouse,CUST-041,1.0,650,0.0,650.0,248.52,Aarav
+ORD-1129,2025-02-26,North,Home & Kitchen,Water Bottle,CUST-035,4.0,450,0.05,1710.0,516.35,Sara
+ORD-1130,2025-06-30,East,Accessories,Backpack,CUST-050,4.0,1100,0.0,4400.0,1167.82,Sara
+ORD-1131,2025-04-17,South,Accessories,Phone Stand,CUST-004,4.0,550,0.05,2090.0,466.22,Kabir
+ORD-1132,2025-09-25,West,Office Supplies,Stapler,CUST-026,4.0,280,0.05,1064.0,400.84,Kabir
+ORD-1133,2025-08-21,North,Electronics,Keyboard,CUST-036,7.0,950,0.0,6650.0,2767.68,Aarav
+ORD-1134,2025-08-29,East,Home & Kitchen,Storage Box,CUST-008,3.0,720,0.0,2160.0,522.71,Meera
+ORD-1135,2025-03-28,East,Electronics,Wireless Mouse,CUST-007,5.0,650,0.0,3250.0,1035.26,Sara
+ORD-1136,2025-04-07,West,Electronics,Wireless Mouse,CUST-029,4.0,650,0.05,2470.0,974.71,Sara
+ORD-1137,2025-02-03,East,Office Supplies,Stapler,CUST-023,2.0,280,0.0,560.0,229.54,Meera
+ORD-1138,2025-02-18,West,Home & Kitchen,Coffee Mug,CUST-008,7.0,380,0.0,2660.0,800.28,Diya
+ORD-1139,2025-11-06,East,Electronics,Bluetooth Speaker,CUST-038,5.0,2200,0.05,10450.0,3561.01,Rohan
+ORD-1140,2025-07-14,West,Home & Kitchen,Storage Box,CUST-047,2.0,720,0.15,1224.0,411.44,Meera
+ORD-1141,2025-12-11,East,Home & Kitchen,Water Bottle,CUST-039,3.0,450,0.05,1282.5,514.52,Sara
+ORD-1142,2025-08-28,North,Home & Kitchen,Coffee Mug,CUST-035,4.0,380,0.15,1292.0,496.53,Diya
+ORD-1143,2025-12-02,North,Accessories,Laptop Sleeve,CUST-033,2.0,900,0.05,1710.0,467.34,Sara
+ORD-1144,2025-08-24,East,Office Supplies,Desk Organizer,CUST-048,1.0,320,0.1,288.0,75.86,Meera
+ORD-1145,2025-06-12,West,Accessories,Backpack,CUST-001,5.0,1100,0.1,4950.0,1980.14,Diya
+ORD-1146,2025-06-07,West,Electronics,USB-C Hub,CUST-047,2.0,1450,0.0,2900.0,800.8,Sara
+ORD-1147,2025-08-18,East,Office Supplies,Desk Organizer,CUST-001,3.0,320,0.05,912.0,308.41,Meera
+ORD-1148,2025-07-30,North,Office Supplies,Stapler,CUST-039,1.0,280,0.0,280.0,95.53,Aarav
+ORD-1149,2025-05-02,South,Home & Kitchen,Water Bottle,CUST-010,1.0,450,0.15,382.5,142.01,Aarav
+ORD-1150,2025-06-22,South,Accessories,Laptop Sleeve,CUST-024,3.0,900,0.0,2700.0,1033.69,Meera
+ORD-1031,2025-11-05,East,Accessories,Laptop Sleeve,CUST-017,1.0,900,0.0,900.0,239.04,Meera
