@@ -1,0 +1,12 @@
+step,rule,rows_affected,rows_remaining,value_affected_gbp,note
+0,Raw data loaded,0,541909,9747747.93,"541,909 transaction lines, 8 columns"
+1,Remove exact duplicate rows (all 8 columns identical),5268,536641,21740.98,"Same invoice, product, quantity, price, timestamp -> treated as double entry"
+2,"Separate non-product lines (POST, DOT, M, D, S, B, C2, BANK CHARGES, AMAZONFEE, CRUK, PADS, gift vouchers)",2910,533731,-45997.02,Kept in non_product_lines file; excluded from merchandise revenue
+3,Separate cancellations (InvoiceNo starts with 'C') into returns table,8668,525063,-475901.16,Analysed separately as returns; netted off in net-revenue metrics
+4,Remove sales lines with Quantity <= 0 (stock write-offs / damages),1336,523727,0.0,"Non-customer stock adjustments, not real sales"
+5,Remove sales lines with UnitPrice <= 0 (free items / adjustments),1159,522568,0.0,Zero-priced lines carry no revenue and usually have no description
+6,Remove return lines with UnitPrice <= 0 or Quantity >= 0,0,8668,0.0,Cannot value a return without a positive price
+7,Standardise product names (one canonical description per StockCode),6894,522568,,"212 StockCodes had >1 spelling; 6,894 rows renamed. Missing descriptions before: 0, after: 0"
+8,"Add derived columns: Revenue, InvoiceMonth, InvoiceDay, Weekday, Hour, HasCustomerID",522568,522568,,Revenue = Quantity x UnitPrice (ReturnValue is positive for returns)
+9,Flag lines without CustomerID (kept for revenue/product analysis),131418,522568,1510677.49,"Excluded only from customer-level analysis (RFM, cohorts, repeat behaviour)"
+10,FINAL clean sales table,0,522568,10247905.13,"Returns table: 8,668 rows; non-product lines: 2,910 rows"

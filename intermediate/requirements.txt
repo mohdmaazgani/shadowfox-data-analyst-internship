@@ -1,0 +1,14 @@
+# Core analysis
+pandas>=2.2
+numpy>=1.26
+
+# Charts
+matplotlib>=3.8
+seaborn>=0.13
+Pillow>=10.0
+
+# PDF report
+reportlab>=4.0
+
+# Only needed if you re-run src/00_download_data.py to rebuild the raw CSV
+pyreadr>=0.5
